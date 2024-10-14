@@ -1,0 +1,25 @@
+/* Ensures HTML5 semantic elements are treated as block-level elements, 
+   allowing them to take up the full width and stack vertically */
+
+/* Styles the element with id "wrapper" to be 80% of the viewport width, centers it using auto margins,
+   and sets a light gray background (#EAEAEA) */
+
+/* Sets the background color of the header to light purple (#CCCCFF) */
+
+/* Removes default margins from <h1> elements and adds 10px padding for inner spacing */
+
+/* Floats the <nav> element to the left of the page content, 
+   gives it a width of 100px, and adds 30px padding for spacing */
+
+/* Removes default bullet points from unordered lists (<ul>) inside <nav> */
+
+/* Removes the underline from all links (<a>) inside <nav> */
+
+/* Floats the <aside> element to the right, gives it a width of 200px */
+
+/* Styles the <main> content area with margins on the left (160px) and right (210px) 
+   to create space for the <nav> on the left and <aside> on the right, adds padding of 10px, 
+   and gives it a white background (#FFFFFF) */
+
+/* Centers the text in the footer, applies italic styling, gives the footer a background color 
+   matching the header (#CCCCFF), and ensures it clears both floated elements (nav and aside) */
